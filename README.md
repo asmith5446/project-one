@@ -8,3 +8,4 @@ Leticia Salazar, Eilish Boyd, Alyssia Smith
 
 Project Objective:
  - To see how youtube trends can influence the amount of likes vs dislikes on a video.
+ - https://www.kaggle.com/datasnaek/youtube-new
